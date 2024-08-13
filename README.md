@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=2000&color=00D2D3&width=1024&height=120&lines=Welcome+to+my+GitHub.+Let’s+create+magic+with+code!;Glad+you’re+here!+Let’s+code+something+amazing.)](https://git.io/typing-svg)
+
 <img src="https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif" alt="GitHub Image" width="1300" />
 <h1 align="center">Hi 👋, I'm Priyank Aman</h1>
 <h3 align="center">I am a passionate frontend and backend developer from India with a knack for creating intuitive user interfaces and robust server-side logic. I thrive on solving complex problems and delivering seamless, scalable solutions.</h3>
