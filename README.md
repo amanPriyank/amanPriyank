@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif" alt="GitHub Image" width="1300" />
 <h1 align="center">Hi 👋, I'm Priyank Aman</h1>
 <h3 align="center">I am a passionate frontend and backend developer from India with a knack for creating intuitive user interfaces and robust server-side logic. I thrive on solving complex problems and delivering seamless, scalable solutions.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+<img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpriyank&label=Profile%20views&color=0e75b6&style=flat" alt="amanpriyank" /> </p>
 
